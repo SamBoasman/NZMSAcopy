@@ -59,4 +59,4 @@ Remove the current **remote** that your local repository is connected to (Which 
 
 You will want to start [here](https://git-scm.com/docs/git-remote) for the command documentation, and you will want to go [here](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository) for an example of how to do it. Good luck!
 
--[x] Completed Github Workshop
+-   [x] Completed Github Workshop
